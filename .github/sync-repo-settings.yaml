@@ -1,6 +1,6 @@
 # Whether or not rebase-merging is enabled on this repository.
 # Defaults to `true`
-rebaseMergeAllowed: true
+rebaseMergeAllowed: false
 
 # Whether or not squash-merging is enabled on this repository.
 # Defaults to `true`
@@ -9,8 +9,6 @@ squashMergeAllowed: true
 # Whether or not PRs are merged with a merge commit on this repository.
 # Defaults to `false`
 mergeCommitAllowed: false
-
-
 
 # Automatically delete head branches after merging PRs.  Defaults to `true`.
 deleteBranchOnMerge: true

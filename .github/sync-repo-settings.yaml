@@ -22,7 +22,7 @@ branchProtectionRules:
   # Are reviews from code owners required to update matching branches.
   # Defaults to `false`
   requiresCodeOwnerReviews: true
-- pattern: develop
+- pattern: develop*
   # Can admins overwrite branch protection.
   # Defaults to `true`
   isAdminEnforced: true

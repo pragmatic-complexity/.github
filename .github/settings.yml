@@ -14,7 +14,7 @@ repository:
   topics: github, test
 
   # Either `true` to make the repository private, or `false` to make it public.
-  private: false
+  private: true
 
   # Either `true` to enable issues for this repository, `false` to disable them.
   has_issues: true

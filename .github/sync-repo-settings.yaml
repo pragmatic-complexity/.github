@@ -10,6 +10,8 @@ squashMergeAllowed: true
 # Defaults to `false`
 mergeCommitAllowed: false
 
+
+
 # Automatically delete head branches after merging PRs.  Defaults to `true`.
 deleteBranchOnMerge: true
 

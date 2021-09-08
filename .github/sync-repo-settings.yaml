@@ -12,7 +12,7 @@ deleteBranchOnMerge: true
 branchProtectionRules:
 # Identifies the protection rule pattern. Name of the branch to be protected.
 # Defaults to `master`
-- pattern: main
+- pattern: ma*
   # Can admins overwrite branch protection.
   # Defaults to `true`
   isAdminEnforced: true
